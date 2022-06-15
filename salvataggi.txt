@@ -1,0 +1,10 @@
+benvenuto/a!!!
+questo è il tutorial di to-do CRISP!
+to-do CRISP! è una semplice to-do list
+inserisci un'attività nella casella di testo sopra...
+premi invio e comparirà sotto!
+mi raccomando però
+scrivi le attività in poche parole
+in modo che ci stiamo nello spazio dedicato
+per iniziare, elimina le attività che hai appena letto
+divertiti!
